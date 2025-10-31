@@ -6,7 +6,7 @@
 
 ---
 
-### <details><summary><strong>🔎 Focos Atuais e Objetivos (Clique para expandir)</strong></summary>
+### <summary><strong>🔎 Focos Atuais e Objetivos </strong></summary>
 <br/>
 <p>Aqui estão os projetos e estudos nos quais estou focado no momento:</p>
 <ul>
