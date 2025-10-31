@@ -26,7 +26,7 @@ Eu me dedico principalmente ao desenvolvimento **Front-end** e exploro o **Back-
 - **🤝 Buscando colaborar em:** Projetos *open source* de Front-end ou Back-end que usem PostgreSQL.
 - **🌱 Estou aprendendo:** Estratégias avançadas de otimização de consultas em Banco de Dados.
 - **💬 Pergunte-me sobre:** Criação de landing pages e design responsivo.
-- **📫 Contato:** Você pode me encontrar no [LinkedIn]([SEU_LINK_DO_LINKEDIN_AQUI]).
+- **📫 Contato:** Você pode me encontrar no [LinkedIn]([https://github.com/TioDanoni]).
 - **🎮 Curiosidade:** Meu personagem favorito é o lobo! 🐺
 
 ---
