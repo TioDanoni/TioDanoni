@@ -1,7 +1,7 @@
 # Maurício (TioDanoni) - Desenvolvedor Web
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A65B&center=true&vCenter=true&width=550&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+Flask%2C+Python+%26+PostgreSQL;Criador+da+Plataforma+SaaS+OasisDigital"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A65B&center=true&vCenter=true&width=550&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+Flask%2C+Python+%26+PostgreSQL;Criador+da+Plataforma+SaaS+PlatuDelivery"/>
 </p>
 
 <table width="100%">
