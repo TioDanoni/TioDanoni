@@ -11,7 +11,7 @@
       <p>Olá! Sou um desenvolvedor web focado em criar soluções de alta performance. Minha especialidade é o desenvolvimento back-end com <strong>Python (Flask)</strong> e <strong>PostgreSQL</strong>, e estou sempre explorando novas formas de automação com <strong>Node-RED</strong> e <strong>Node.js</strong>.</p>
       <p>Acredito em criar ferramentas que resolvam problemas reais, com código limpo, escalável e de fácil manutenção.</p>
       <hr/>
-      <h2>🚀 Projeto Principal: Plataforma SaaS de Delivery (OasisDigital)</h2>
+      <h2>🚀 Projeto Principal: Plataforma SaaS de Delivery (PlatuDelivery)</h2>
       <p>Este é meu projeto mais completo: uma plataforma SaaS <i>white-label</i> para delivery, permitindo que empresas gerenciem seus próprios cardápios e pedidos sem taxas abusivas.</p>
       <p><strong>Tecnologias Usadas:</strong> Python (Flask), PostgreSQL, HTML, CSS, JavaScript</p>
       <details>
