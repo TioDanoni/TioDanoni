@@ -1,75 +1,137 @@
-# Maurício (TioDanoni) - Desenvolvedor Web
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A65B&center=true&vCenter=true&width=550&lines=Desenvolvedor+Web+Full+Stack;Especialista+em+Flask%2C+Python+%26+PostgreSQL;Criador+da+Plataforma+SaaS+PlatuDelivery"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Maurício%20Danoni&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea"/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+Solutions+Builder;Python+%7C+Dart+%7C+TypeScript+Enthusiast;Creator+of+PlatuDelivery+SaaS+Platform" alt="Typing SVG" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h2>👋 Sobre Mim</h2>
-      <p>Olá! Sou um desenvolvedor web focado em criar soluções de alta performance. Minha especialidade é o desenvolvimento back-end com <strong>Python (Flask)</strong> e <strong>PostgreSQL</strong>, e estou sempre explorando novas formas de automação com <strong>Node-RED</strong> e <strong>Node.js</strong>.</p>
-      <p>Acredito em criar ferramentas que resolvam problemas reais, com código limpo, escalável e de fácil manutenção.</p>
-      <hr/>
-      <h2>🚀 Projeto Principal: Plataforma SaaS de Delivery (PlatuDelivery)</h2>
-      <p>Este é meu projeto mais completo: uma plataforma SaaS <i>white-label</i> para delivery, permitindo que empresas gerenciem seus próprios cardápios e pedidos sem taxas abusivas.</p>
-      <p><strong>Tecnologias Usadas:</strong> Python (Flask), PostgreSQL, HTML, CSS, JavaScript</p>
-      <details>
-        <summary><strong>Clique para ver a descrição técnica completa e funcionalidades</strong></summary>
-        <br/>
-        <h4>✨ Funcionalidades Principais</h4>
-        <ul>
-          <li>✅ Cadastro de empresas com painel administrativo próprio</li>
-          <li>✅ Link personalizado para cada estabelecimento</li>
-          <li>✅ Criação e gerenciamento de cardápios com fotos</li>
-          <li>✅ Sistema de variantes (tamanhos, sabores, adicionais)</li>
-          <li>✅ Sistema de pedidos em tempo real</li>
-          <li>✅ Cálculo automático de frete por distância</li>
-          <li>✅ Sistema de cupons de desconto</li>
-          <li>✅ Rastreamento e Gerenciamento de status dos pedidos</li>
-          <li>✅ Geração de PDF do cardápio para impressão</li>
-          <li>✅ Interface web moderna e responsiva</li>
-        </ul>
-        <h4>🔧 Configuração White-Label Ready (via .env)</h4>
-        <p>A plataforma suporta customização completa (nome, contatos, branding) via variáveis de ambiente, ideal para múltiplas instâncias ou revenda.</p>
-        <h4>🌐 Arquitetura e Propósito</h4>
-        <p>Solução prática para PMEs de alimentação receberem pedidos online (entrega e retirada), com foco em simplicidade, baixo custo e controle total pelo dono do negócio, fugindo das altas taxas de marketplaces.</p>
-      </details>
-      <hr/>
-      <h2>💡 Outro Projeto Destaque</h2>
-      <h3>Terminal Homepage</h3>
-      <p>Uma página de navegador personalizável com tema de terminal, exibindo atalhos, relógio e informações, simulando um console de comando.</p>
-      <p><strong>Tecnologias Usadas:</strong> HTML, CSS, JavaScript</p>
-      <p><a href="https://github.com/TioDanoni/terminal-homepage"><strong>Ver Repositório ➔</strong></a></p>
-    </td>
-    <td width="35%" valign="top">
-      <h3>🛠️ Meu Arsenal Tecnológico</h3>
-      <p align="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node-RED"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      </p>
-      <hr/>
-      <h3>📊 Estatísticas do GitHub</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TioDanoni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub - TioDanoni"/>
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioDanoni&layout=compact&theme=tokyonight&hide_border=true" alt="Principais Linguagens - TioDanoni"/>
-      </p>
-      <hr/>
-      <h3>📬 Contato e Métricas</h3>
-      <p align="center">
-        <br/><br/>
-        <img src="https://img.shields.io/github/followers/TioDanoni?style=social" alt="Contador de Seguidores"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/TioDanoni">
+    <img src="https://img.shields.io/github/followers/TioDanoni?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0f172a&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TioDanoni&style=for-the-badge&color=38BDF8&labelColor=0f172a&label=Profile+Views"/>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+```typescript
+const mauricio: Developer = {
+  alias:    "TioDanoni",
+  focus:    ["Full Stack", "Mobile", "Web"],
+  stack:    ["Python", "Dart", "TypeScript", "HTML", "CSS"],
+  building: "PlatuDelivery — Plataforma SaaS White-Label de Delivery",
+  mindset:  "Criar soluções reais, com código limpo e escalável.",
+};
+```
+
+Desenvolvedor apaixonado por construir produtos que resolvem problemas reais. Atuo em toda a stack — do banco de dados à interface mobile e web — sempre com foco em performance, manutenibilidade e experiência do usuário.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8)
+![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge&logo=dart&logoColor=38BDF8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=38BDF8)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38BDF8)
+
+**Frameworks & Ferramentas**
+
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=38BDF8)
+![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=38BDF8)
+![Node--RED](https://img.shields.io/badge/Node--RED-0f172a?style=for-the-badge&logo=nodered&logoColor=38BDF8)
+
+**Banco de Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=38BDF8)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38BDF8)
+
+**Dev Tools**
+
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38BDF8)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8)
+![VS Code](https://img.shields.io/badge/VS%20Code-0f172a?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8)
+
+</div>
+
+---
+
+## 🚀 Projeto em Destaque
+
+<div align="center">
+
+### 🍕 PlatuDelivery — SaaS White-Label de Delivery
+
+</div>
+
+> Plataforma completa para que restaurantes e PMEs recebam pedidos online sem depender de marketplaces com taxas abusivas.
+
+<details>
+<summary><strong>🔍 Ver detalhes técnicos e funcionalidades</strong></summary>
+
+<br/>
+
+**Stack:** `Python (Flask)` · `PostgreSQL` · `HTML` · `CSS` · `JavaScript`
+
+**✅ Funcionalidades:**
+- Cadastro de empresas com painel administrativo próprio
+- Link personalizado por estabelecimento
+- Cardápios com fotos, variantes (tamanhos, sabores, adicionais)
+- Sistema de pedidos em tempo real
+- Cálculo automático de frete por distância
+- Cupons de desconto
+- Rastreamento e gerenciamento de status de pedidos
+- Geração de PDF do cardápio para impressão
+- Interface web moderna e responsiva
+
+**⚙️ White-Label Ready:** Customização completa via `.env` (nome, contatos, branding), ideal para múltiplas instâncias ou revenda.
+
+**🎯 Propósito:** Simplicidade, baixo custo e controle total para o dono do negócio — sem depender de plataformas de terceiros.
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=TioDanoni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=38BDF8&icon_color=38BDF8&text_color=cbd5e1&border_radius=12"/>
+&nbsp;
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioDanoni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38BDF8&text_color=cbd5e1&border_radius=12"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TioDanoni&theme=tokyonight&hide_border=true&background=0f172a&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&border_radius=12" />
+
+</div>
+
+---
+
+## 🌐 Outro Projeto
+
+### 🖥️ Terminal Homepage
+> Página de navegador personalizável com tema de terminal — atalhos, relógio e informações no estilo console de comando.
+
+**Stack:** `HTML` · `CSS` · `JavaScript`
+
+[![Ver Repositório](https://img.shields.io/badge/Ver%20Reposit%C3%B3rio-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/TioDanoni/terminal-homepage)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+
+</div>
